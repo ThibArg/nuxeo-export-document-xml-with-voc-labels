@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Nuxeo
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Bundle-Version: 1.0.qualifier
+Bundle-Name: nuxeo-ecport-document-xml-with-voc-labels
+Nuxeo-Component: OSGI-INF/extensions/org.nuxeo.export.doc.xml.ExportDo
+ cAsXMLWithVocLabelsOp.xml
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: nuxeo-export-document-xml-with-voc-labels
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+
